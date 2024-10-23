@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C59E6B07-D847-42DC-B195-B1CBEEE701D0}|QuizTest\\QuizTest.csproj|c:\\loc\\studing\\mentorship\\19-10-2024\\quiz\\quiztest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59E6B07-D847-42DC-B195-B1CBEEE701D0}|QuizTest\\QuizTest.csproj|solutionrelative:quiztest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|c:\\loc\\studing\\mentorship\\19-10-2024\\quiz\\quiz\\model\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|c:\\loc\\studing\\mentorship\\19-10-2024\\quiz\\quiz\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|c:\\loc\\studing\\mentorship\\19-10-2024\\quiz\\quiz\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|c:\\loc\\studing\\mentorship\\19-10-2024\\quiz\\quiz\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|c:\\loc\\studing\\mentorship\\19-10-2024\\quiz\\quiz\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11819A1E-3ED0-48D3-B0E7-FCF7DD6BD54F}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionType.cs",
+              "DocumentMoniker": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\QuestionType.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\QuestionType.cs",
+              "ToolTip": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\QuestionType.cs",
+              "RelativeToolTip": "Quiz\\Model\\QuestionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:49:25.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\Topic.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\Topic.cs",
+              "ToolTip": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\Topic.cs",
+              "RelativeToolTip": "Quiz\\Model\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:48:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\Question.cs",
+              "ToolTip": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\Question.cs",
+              "RelativeToolTip": "Quiz\\Model\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:46:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\QuizTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "QuizTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\QuizTest\\UnitTest1.cs",
+              "RelativeToolTip": "QuizTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:43:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\Quiz.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\Quiz.cs",
+              "ToolTip": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\Quiz.cs",
+              "RelativeToolTip": "Quiz\\Model\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:38:10.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\User.cs",
+              "ToolTip": "C:\\Loc\\Studing\\MentorShip\\19-10-2024\\Quiz\\Quiz\\Model\\User.cs",
+              "RelativeToolTip": "Quiz\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:35:44.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
