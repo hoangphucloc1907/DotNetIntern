@@ -1,8 +1,10 @@
 ﻿namespace Quiz.Model
 {
-    public class QuestionType
+    public enum QuestionType
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+        TrueFalse,
+        MultipleChoice,
+        FillInBlank,
+
     }
 }

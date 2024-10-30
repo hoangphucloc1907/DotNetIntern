@@ -4,8 +4,8 @@
     {
         public int Id { get; set; }
         public string Content { get; set; }
-        public bool IsCorrect { get; set; }
-        public int Position { get; set; }
+        public string AnswerType { get; set; }
+        public int CorrectPosition { get; set; }
         public int QuestionId { get; set; }
     }
 }
