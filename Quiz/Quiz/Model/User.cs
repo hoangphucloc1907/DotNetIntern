@@ -7,10 +7,5 @@
         public string Email { get; set; }
 
         public List<Quiz> Quizzes = new List<Quiz>();
-
-        public void AddQuiz(Quiz quiz)
-        {
-            Quizzes.Add(quiz);
-        }
     }
 }

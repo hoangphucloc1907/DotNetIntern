@@ -1,8 +1,9 @@
 ﻿namespace Quiz.Model
 {
-    public class Category
+    public enum Category
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+        Math,
+        Physics,
+        Chemistry,
     }
 }
